@@ -1,0 +1,149 @@
+{
+    "data_files": {
+      "data_path": "../data/",
+      "anagrafica_comuni": "Elenco-comuni-italiani.csv",
+      "file_incidenti":"INCSTRAD_Microdati_Anno_2017.txt"
+    },
+    "grafici": {
+        "base_path": "../images",
+        "male_female_pie_chart": "male_female_pie_chart.png",
+        "hourly_distribution_bar_chart": "hourly_distribution_bar_chart.png",
+        "incident_tipology_chart": "incident_tipology_"
+    },
+    "data_structure": {
+        "columns": [
+            "Ora",
+            "giorno",
+            "provincia",
+            "comune",
+            "pavimentazione",
+            "fondo_stradale",
+            "condizioni_meteorologiche",
+            "natura_incidente",
+
+            "tipo_veicolo_a",
+            "tipo_veicoli__b_",
+            "tipo_veicolo__c_",
+
+            "veicolo__a___sesso_conducente",
+            "veicolo__b___sesso_conducente",
+            "veicolo__c___sesso_conducente",
+
+            "veicolo__a___esito_conducente",
+            "veicolo__b___esito_conducente",
+            "veicolo__c___esito_conducente",
+
+            "veicolo__a___passeggeri_an35",
+            "veicolo__b___passeggeri_an57",
+
+            "veicolo__a___esito_passegg38",
+            "veicolo__a___esito_passegg41",
+            "veicolo__a___esito_passegg44",
+
+            "veicolo__b___esito_passegg60",
+            "veicolo__b___esito_passegg63",
+            "veicolo__b___esito_passegg66",
+
+            "veicolo__c___esito_passegg82",
+            "veicolo__c___esito_passegg85",
+            "veicolo__c___esito_passegg88",
+
+            "veicolo__a___altri_passegg47",
+            "veicolo__a___altri_passegg48",
+            "veicolo__b___altri_passegg71",
+            "veicolo__b___altri_passegg72",
+            "veicolo__c___altri_passegg93",
+            "veicolo__c___altri_passegg94",
+
+            "veicolo__a___altri_passegg49",
+            "veicolo__a___altri_passegg50",
+            "veicolo__b___altri_passegg69",
+            "veicolo__b___altri_passegg70",
+            "veicolo__c___altri_passegg91",
+            "veicolo__c___altri_passegg92",
+
+            "pedone_morto_1__et_",
+            "pedone_morto_2__et_",
+            "pedone_morto_3__et_",
+            "pedone_morto_4__et_",
+
+            "pedone_ferito_1__et_",
+            "pedone_ferito_2__et_",
+            "pedone_ferito_3__et_",
+            "pedone_ferito_4__et_"
+
+        ],
+        "convert_to_number":[
+            "veicolo__a___esito_conducente",
+            "veicolo__b___esito_conducente",
+            "veicolo__c___esito_conducente",
+
+            "veicolo__a___passeggeri_an35",
+            "veicolo__b___passeggeri_an57",
+
+            "veicolo__a___esito_passegg38",
+            "veicolo__a___esito_passegg41",
+            "veicolo__a___esito_passegg44",
+
+            "veicolo__b___esito_passegg60",
+            "veicolo__b___esito_passegg63",
+            "veicolo__b___esito_passegg66",
+
+            "veicolo__c___esito_passegg82",
+            "veicolo__c___esito_passegg85",
+            "veicolo__c___esito_passegg88",
+
+            "veicolo__a___altri_passegg47",
+            "veicolo__a___altri_passegg48",
+            "veicolo__b___altri_passegg71",
+            "veicolo__b___altri_passegg72",
+            "veicolo__c___altri_passegg93",
+            "veicolo__c___altri_passegg94",
+
+            "veicolo__a___altri_passegg49",
+            "veicolo__a___altri_passegg50",
+            "veicolo__b___altri_passegg69",
+            "veicolo__b___altri_passegg70",
+            "veicolo__c___altri_passegg91",
+            "veicolo__c___altri_passegg92"
+
+        ],
+        "incident_outcome_columns": [
+            "veicolo__a___esito_conducente",
+            "veicolo__b___esito_conducente",
+            "veicolo__c___esito_conducente",
+
+            "veicolo__a___passeggeri_an35",
+            "veicolo__b___passeggeri_an57",
+
+            "veicolo__a___esito_passegg38",
+            "veicolo__a___esito_passegg41",
+            "veicolo__a___esito_passegg44",
+
+            "veicolo__b___esito_passegg60",
+            "veicolo__b___esito_passegg63",
+            "veicolo__b___esito_passegg66",
+
+            "veicolo__c___esito_passegg82",
+            "veicolo__c___esito_passegg85",
+            "veicolo__c___esito_passegg88"
+        ],
+        "other_injured_columns": [
+            "veicolo__a___altri_passegg47",
+            "veicolo__a___altri_passegg48",
+            "veicolo__b___altri_passegg71",
+            "veicolo__b___altri_passegg72",
+            "veicolo__c___altri_passegg93",
+            "veicolo__c___altri_passegg94"
+        ],
+        "other_deadh_columns": [
+            "veicolo__a___altri_passegg49",
+            "veicolo__a___altri_passegg50",
+            "veicolo__b___altri_passegg69",
+            "veicolo__b___altri_passegg70",
+            "veicolo__c___altri_passegg91",
+            "veicolo__c___altri_passegg92"
+
+        ]
+    }
+}
