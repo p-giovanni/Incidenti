@@ -1,5 +1,13 @@
 # The "Incidenti" project
 
+This is a project I'm doing to explore the dataset about all the car crashes, injured people, happened in Italy in the year
+2017.
+
+The main idea was to understand what is the most dangerous thing to do on our street. It seems, for instance that just having 
+a walk can be dangerous (pedestrians is one of the categories that have the most injured and deaths).
+
+Some charts are in [images](./images/).
+
 ## The dataset
 I downloaded the data from the [Istat](https://www.istat.it/it/) site. Istat is the main Italian statistic institute.
 
