@@ -1,5 +1,5 @@
 # The "Incidenti" project
-  
+
 ## The dataset
 I downloaded the data from the [Istat](https://www.istat.it/it/) site. Istat is the main Italian statistic institute.
 
