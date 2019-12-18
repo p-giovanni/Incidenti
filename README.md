@@ -1,4 +1,9 @@
-## The "Incidenti" project
+# The "Incidenti" project
+  
+## The dataset
+I downloaded the data from the [Istat](https://www.istat.it/it/) site. Istat is the main Italian statistic institute.
+
+You won't find the dataset in this repository because I do not own it, but you can freely download the data files and all the metadata files (my program uses the tab separated file format) from the Istat site (a registration is required).
   
 ## Installation and build
 Clone this repository and than:
