@@ -20,7 +20,7 @@ def init_logger(log_dir, log_level, std_out_log_level=logging.ERROR):
     :param log_dir: path for the logfile;
     :param log_level: logging level for the file logger;
     :param std_out_log_level: logging level for the stdout logger;
-    :return:
+    :return: 
     """
     root = logging.getLogger()
     dap_format = '%(asctime)s %(name)s %(levelname)s %(message)s'

@@ -153,7 +153,7 @@ class IncidentsDataframeAggregator(object):
                     df_incidenti['Feriti'].sum()
                     df_incidenti['Morti'].sum()
 
-        :return:
+        :return: 
         """
         self.__log.info("__calculate_incident_outcome >>")
         start = time.time()

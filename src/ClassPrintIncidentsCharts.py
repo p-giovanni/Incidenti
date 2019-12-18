@@ -18,7 +18,7 @@ class PrintIncidentsCharts(object):
         self.__log = logging.getLogger('Incidenti')
 
     # ----------------------------------------
-    # print_incidents_outcome_by_typology
+    # print_incidents_outcome_by_typology 
     # ----------------------------------------
     def print_incidents_outcome_by_typology(self, df):
         fig, ax = plt.subplots(figsize=(10, 8))
@@ -253,7 +253,7 @@ class PrintIncidentsCharts(object):
             fig.set_figwidth(value_width)
 
             # Create a pie chart
-            ax[0].set_title("Incidenti uomini/donne - provincia Milano", fontsize=24)
+            ax[0].set_titlmere("Incidenti uomini/donne - provincia Milano", fontsize=24)
             ax[0].pie(
                 df_mv_province['Numero'],
                 labels=df_mv_province['Sesso conducente'],

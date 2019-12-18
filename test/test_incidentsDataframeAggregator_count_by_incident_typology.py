@@ -2,7 +2,7 @@
 # File: test_incidentsDataframeAggregator_count_by_incident_typology.py
 # Author(s): Ing. Giovanni Rizzardi - Spring 2019
 # Project: DataScience 
-#
+# 
 
 import os
 import json

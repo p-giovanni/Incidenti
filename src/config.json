@@ -1,5 +1,5 @@
 {
-    "data_files": {
+    "data_files": { 
       "data_path": "../data/",
       "anagrafica_comuni": "Elenco-comuni-italiani.csv",
       "file_incidenti":"INCSTRAD_Microdati_Anno_2017.txt"

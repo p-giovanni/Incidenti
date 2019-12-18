@@ -2,7 +2,7 @@
 # File: test_incidentsDataframeAggregator_get_veicle_passengers_outcome.py
 # Author(s): Ing. Giovanni Rizzardi - Summer 2019
 # Project: DataScience 
-#
+#  
 import os
 import json
 import logging

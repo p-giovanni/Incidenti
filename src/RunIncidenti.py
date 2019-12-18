@@ -22,7 +22,7 @@ from src.ClassIncidentsDataframeAggregator import IncidentsDataframeAggregator
 # ----------------------------------------
 def chart_male_female(aggregator, config):
     """
-
+ 
     :param aggregator:
     :param config:
     :return:

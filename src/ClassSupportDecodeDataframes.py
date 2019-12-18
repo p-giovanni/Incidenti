@@ -97,7 +97,7 @@ class SupportDecodeDataframes(object):
             ]
             self.condizioni_meteorologiche = pd.DataFrame.from_records(condizioni_meteorologiche, columns=labels)
 
-            natura_incidente_columns = labels + ["Commento"]
+            natura_incidente_columns = labels + ["Commento"] 
             natura_incidente = [
                 ("01", "Scontro frontale",                                 "Debbono essere coinvolti almeno due veicoli"),
                 ("02", "Scontro frontale laterale",                        "Debbono essere coinvolti almeno due veicoli"),

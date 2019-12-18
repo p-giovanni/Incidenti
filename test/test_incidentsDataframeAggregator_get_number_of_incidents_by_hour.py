@@ -2,7 +2,7 @@
 # File: test_incidentsDataframeAggregator_get_number_of_incidents_by_hour.py
 # Author(s): Ing. Giovanni Rizzardi - Summer 2019
 # Project: DataScience 
-#
+# 
 
 import os
 import json

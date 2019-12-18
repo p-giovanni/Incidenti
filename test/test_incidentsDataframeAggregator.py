@@ -2,7 +2,7 @@
 # File: test_incidentsDataframeAggregator.py
 # Author(s): Ing. Giovanni Rizzardi - Spring 2019
 # Project: DataScience
-#
+# 
 
 import os
 import json

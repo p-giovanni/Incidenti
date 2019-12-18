@@ -2,7 +2,7 @@
 # File: test_incidentsDataframeAggregator_get_incidents_outcome_by_typology.py
 # Author(s): Ing. Giovanni Rizzardi - Summer 2019
 # Project: DataScience 
-#
+# 
 
 import os
 import json

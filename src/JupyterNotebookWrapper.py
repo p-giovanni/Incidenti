@@ -18,7 +18,7 @@ from src.ClassAnagraficaComuni import AnagraficaComuni
 from src.ClassSupportDecodeDataframes import SupportDecodeDataframes
 from src.ClassIncidentsDataframeAggregator import IncidentsDataframeAggregator
 
-config = None
+config = None 
 with open(config_file) as fconfig:
     config = json.load(fconfig)
 
