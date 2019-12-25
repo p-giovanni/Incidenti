@@ -8,6 +8,11 @@ a walk can be dangerous (pedestrians is one of the categories that have the most
 
 Some charts are in [images](./images/).
 
+## Project status
+```diff
+! Work in progress
+```
+
 ## The dataset
 I downloaded the data from the [Istat](https://www.istat.it/it/) site. Istat is the main Italian statistic institute.
 
