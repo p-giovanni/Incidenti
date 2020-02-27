@@ -1,6 +1,6 @@
 # The "Incidenti" project
 
-This is a project I'm doing to explore the dataset about all the car crashes, injured people, happened in Italy in the year
+This is a project I'm doing to explore the dataset about all the car crashes with injured people happened in Italy in the year
 2017.
 
 The main idea was to understand what is the most dangerous thing to do on our street. It seems, for instance that just having 
