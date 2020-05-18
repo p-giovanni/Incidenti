@@ -10,7 +10,7 @@ a walk can be dangerous (pedestrians is one of the categories that have the most
 
 Some charts are in :
 - [2017 images](./images/2017);
-- [2017 images](./images/2018);
+- [2018 images](./images/2018);
 
 ## Project status
 ```diff
